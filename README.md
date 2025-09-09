@@ -1,6 +1,9 @@
 # 📚 SPPU Official Engineering Question Papers
 (Direct download links from the official site)
 
+## 🔗 Google Drive Link:
+https://drive.google.com/drive/folders/1WfiF_RbnGaRF4xwdL6HvwUZqcZjnmSNa
+
 ## 🔗 Official Website:
 http://collegecirculars.unipune.ac.in/sites/examdocs/Time%20Tables%20OCTNOV%202025/Forms/AllItems.aspx
 
