@@ -65,7 +65,7 @@ http://collegecirculars.unipune.ac.in/sites/examdocs/Time%20Tables%20OCTNOV%2020
 
 # 📝 SPPU Official Question Banks
 
-## 📘 T.E (Computer)
+## 📘 T.E. (Computer)
 
 ### 🔹 Software Modelling & Architecture
 [Download Question Bank](http://collegecirculars.unipune.ac.in/sites/examdocs/Question%20Bank/TE_Computer_SOFTWARE%20MODELING%20AND%20ARCHITECTURE.pdf)
@@ -76,7 +76,7 @@ http://collegecirculars.unipune.ac.in/sites/examdocs/Time%20Tables%20OCTNOV%2020
 ### 🔹 Artificial Intelligence
 [Download Question Bank](http://collegecirculars.unipune.ac.in/sites/examdocs/Question%20Bank/TE_Computer_ARTIFICIAL%20INTELLIGENCE.pdf)
 
-## 📘 S.E (Computer)
+## 📘 S.E. (Computer)
 
 ### 🔹 Data Structures & Algorithms
 [Download Question Bank](http://collegecirculars.unipune.ac.in/sites/examdocs/Question%20Bank/SE_Comp_DATA%20STRUCTURES%20AND%20ALGORITHMS.pdf)
