@@ -58,6 +58,7 @@ http://collegecirculars.unipune.ac.in/sites/examdocs/Time%20Tables%20OCTNOV%2020
 - **B.E:** [Download](http://collegecirculars.unipune.ac.in/sites/examdocs/November%20%202024/B.E%20(%202019%20PATTERN%20).pdf)
 
 ## 📅 APRIL 2025 – 2019 Pattern
+- **F.E:** [Download](https://raw.githubusercontent.com/pinakdhabu/Sppuqp/refs/heads/main/FE%20April%2025%20MERGED.pdf)
 - **S.E:** [Download](http://collegecirculars.unipune.ac.in/sites/examdocs/APRIL%20%202025/S.E.%20(%202019%20PATTERN%20).pdf)
 - **T.E:** [Download](http://collegecirculars.unipune.ac.in/sites/examdocs/APRIL%20%202025/T.E.%20(%202019%20PATTERN%20).pdf)
 - **B.E:** [Download](http://collegecirculars.unipune.ac.in/sites/examdocs/APRIL%20%202025/B.E%20(%202019%20PATTERN%20).pdf)
