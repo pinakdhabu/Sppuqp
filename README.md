@@ -13,6 +13,10 @@ http://collegecirculars.unipune.ac.in/sites/examdocs/Time%20Tables%20OCTNOV%2020
 - 🗂 Each PDF has all departments' papers → Search inside for your department & subject
 - 📌 Some also include Honors course papers
 
+
+## Note
+- ✅ If you receive a prompt indicating that the site is not secure, you can still proceed, as it is safe to download PDFs.
+
 ---
 
 ## 📅 APRIL 2022 – 2019 Pattern
