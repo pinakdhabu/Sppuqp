@@ -4,7 +4,7 @@ Get direct access to Savitribai Phule Pune University (SPPU) official engineerin
 
 ## Quick Access Links
 
-**📁 Complete Collection (Google Drive):** [Updated to April 2025](https://drive.google.com/drive/folders/1WfiF_RbnGaRF4xwdL6HvwUZqcZjnmSNa)
+**📁 Complete Collection (Google Drive):** [Updated to October 2025](https://drive.google.com/drive/folders/1WfiF_RbnGaRF4xwdL6HvwUZqcZjnmSNa)
 
 **🌐 Official SPPU Portal:** [College Circulars Website](http://collegecirculars.unipune.ac.in/sites/examdocs/Time%20Tables%20OCTNOV%202025/Forms/AllItems.aspx)
 
